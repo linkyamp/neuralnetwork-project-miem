@@ -1,0 +1,3 @@
+/Users/petrkoldysev/CLionProjects/neuralnetwork-project-miem/cmake-build-debug/CMakeFiles/neuralnetwork_project_miem.dir
+/Users/petrkoldysev/CLionProjects/neuralnetwork-project-miem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/petrkoldysev/CLionProjects/neuralnetwork-project-miem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
