@@ -4,6 +4,7 @@ project(neuralnetwork_project_miem)
 set(CMAKE_CXX_STANDARD 14)
 
 include_directories(neuralnetwork-project-miem)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR})
 
 add_executable(neuralnetwork_project_miem
         neuralnetwork-project-miem/ActivateFunction.cpp
