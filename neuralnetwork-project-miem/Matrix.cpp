@@ -26,7 +26,7 @@ void Matrix::Rand() {
 		}
 	}
 }
-void Matrix::Multi_T(const Matrix& m1, const double* neuron,int n, double* c) {
+void Matrix::Multi(const Matrix& m1, const double* neuron,int n, double* c) {
 //////////////////////////////////////////////////////////////////////////////
 /// Умножение матрицы на вектор столбец, для получения значения нейронов скрытого слоя
 /// \param const Matrix& m1 - контекстная ссылка на объект класса Matrix
